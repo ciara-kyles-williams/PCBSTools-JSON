@@ -1,0 +1,11 @@
+[
+    { "Manufacterer": "AMD" },
+    { "CPU Name": "Ryzen 9 Sixteen Core 3950X" },
+    { "Price": "900" },
+    { "Sell Price": "300" },
+    { "Score": "4109" },
+    { "Actual Score (No Overclock)": "12245" },
+    { "Actual Score (Overclock)": "12259" },
+    { "Level Requirement": "30" },
+    { "Overclock CPU Score Increase": "0.11" }
+]
