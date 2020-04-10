@@ -9,5 +9,170 @@
         "Actual Score (Overclock)": "12259",
         "Level Requirement": "30",
         "Overclock CPU Score Increase": "0.11"
+    },
+    { 
+        "Manufacterer": "AMD",
+        "CPU Name": "Ryzen 9 Twelve Core 3900X",
+        "Price": "700",
+        "Sell Price": "233",
+        "Score": "4102",
+        "Actual Score (No Overclock)": "12225",
+        "Actual Score (Overclock)": "12287",
+        "Level Requirement": "30",
+        "Overclock CPU Score Increase": "0.51"
+    },
+    { 
+        "Manufacterer": "Intel",
+        "CPU Name": "Core i9-9980XE",
+        "Price": "1300",
+        "Sell Price": "433",
+        "Score": "3936",
+        "Actual Score (No Overclock)": "11731",
+        "Actual Score (Overclock)": "11917",
+        "Level Requirement": "29",
+        "Overclock CPU Score Increase": "1.59"
+    },
+    { 
+        "Manufacterer": "Intel",
+        "CPU Name": "Core i9-9960X",
+        "Price": "1150",
+        "Sell Price": "383",
+        "Score": "3934",
+        "Actual Score (No Overclock)": "11724",
+        "Actual Score (Overclock)": "11893",
+        "Level Requirement": "29",
+        "Overclock CPU Score Increase": "1.44"
+    },
+    { 
+        "Manufacterer": "AMD",
+        "CPU Name": "Ryzen Threadripper 2990WX",
+        "Price": "1100",
+        "Sell Price": "367",
+        "Score": "3909",
+        "Actual Score (No Overclock)": "11649",
+        "Actual Score (Overclock)": "11765",
+        "Level Requirement": "28",
+        "Overclock CPU Score Increase": "1"
+    },
+    { 
+        "Manufacterer": "Intel",
+        "CPU Name": "Core i9-7960X",
+        "Price": "1000",
+        "Sell Price": "333",
+        "Score": "3821",
+        "Actual Score (No Overclock)": "11388",
+        "Actual Score (Overclock)": "11556",
+        "Level Requirement": "26",
+        "Overclock CPU Score Increase": "1.48"
+    },
+    { 
+        "Manufacterer": "Intel",
+        "CPU Name": "Core i9-7980XE",
+        "Price": "1200",
+        "Sell Price": "400",
+        "Score": "3812",
+        "Actual Score (No Overclock)": "11360",
+        "Actual Score (Overclock)": "11546",
+        "Level Requirement": "26",
+        "Overclock CPU Score Increase": "1.64"
+    },
+    { 
+        "Manufacterer": "Intel",
+        "CPU Name": "Core i9-9940X",
+        "Price": "1050",
+        "Sell Price": "350",
+        "Score": "3806",
+        "Actual Score (No Overclock)": "11342",
+        "Actual Score (Overclock)": "11601",
+        "Level Requirement": "29",
+        "Overclock CPU Score Increase": "2.28"
+    },
+    { 
+        "Manufacterer": "Intel",
+        "CPU Name": "Core i9-7940X",
+        "Price": "940",
+        "Sell Price": "313",
+        "Score": "3719",
+        "Actual Score (No Overclock)": "11084",
+        "Actual Score (Overclock)": "11342",
+        "Level Requirement": "26",
+        "Overclock CPU Score Increase": "2.33"
+    },
+    { 
+        "Manufacterer": "Intel",
+        "CPU Name": "Core i9-9920X",
+        "Price": "950",
+        "Sell Price": "317",
+        "Score": "3657",
+        "Actual Score (No Overclock)": "10899",
+        "Actual Score (Overclock)": "11052",
+        "Level Requirement": "29",
+        "Overclock CPU Score Increase": "1.4"
+    },
+    { 
+        "Manufacterer": "Intel",
+        "CPU Name": "Core i9-7920X",
+        "Price": "920",
+        "Sell Price": "307",
+        "Score": "3606",
+        "Actual Score (No Overclock)": "10746",
+        "Actual Score (Overclock)": "10899",
+        "Level Requirement": "26",
+        "Overclock CPU Score Increase": "1.42"
+    },
+    { 
+        "Manufacterer": "Intel",
+        "CPU Name": "Core i9-9900K",
+        "Price": "730",
+        "Sell Price": "243",
+        "Score": "3568",
+        "Actual Score (No Overclock)": "10633",
+        "Actual Score (Overclock)": "10862",
+        "Level Requirement": "20",
+        "Overclock CPU Score Increase": "2.15"
+    },
+    { 
+        "Manufacterer": "Intel",
+        "CPU Name": "Core i9-7900X",
+        "Price": "900",
+        "Sell Price": "300",
+        "Score": "3565",
+        "Actual Score (No Overclock)": "10626",
+        "Actual Score (Overclock)": "10710",
+        "Level Requirement": "26",
+        "Overclock CPU Score Increase": "0.79"
+    },
+    { 
+        "Manufacterer": "Intel",
+        "CPU Name": "Core i9-9900X",
+        "Price": "660",
+        "Sell Price": "220",
+        "Score": "3537",
+        "Actual Score (No Overclock)": "10541",
+        "Actual Score (Overclock)": "10626",
+        "Level Requirement": "29",
+        "Overclock CPU Score Increase": "0.81"
+    },
+    { 
+        "Manufacterer": "Intel",
+        "CPU Name": "Core i9-9820X",
+        "Price": "580",
+        "Sell Price": "193",
+        "Score": "3428",
+        "Actual Score (No Overclock)": "10215",
+        "Actual Score (Overclock)": "10316",
+        "Level Requirement": "29",
+        "Overclock CPU Score Increase": "0.99"
+    },
+    { 
+        "Manufacterer": "AMD",
+        "CPU Name": "Ryzen Threadripper 2950X",
+        "Price": "850",
+        "Sell Price": "283",
+        "Score": "3423",
+        "Actual Score (No Overclock)": "10202",
+        "Actual Score (Overclock)": "10206",
+        "Level Requirement": "28",
+        "Overclock CPU Score Increase": "0.04"
     }
 ]
