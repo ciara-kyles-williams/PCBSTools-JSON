@@ -174,5 +174,71 @@
         "Actual Score (Overclock)": "10206",
         "Level Requirement": "28",
         "Overclock CPU Score Increase": "0.04"
+    },
+    { 
+        "Manufacterer": "AMD",
+        "CPU Name": "Ryzen Threadripper 2920X",
+        "Price": "775",
+        "Sell Price": "258",
+        "Score": "3422",
+        "Actual Score (No Overclock)": "10198",
+        "Actual Score (Overclock)": "10202",
+        "Level Requirement": "28",
+        "Overclock CPU Score Increase": "0.04"
+    },
+    { 
+        "Manufacterer": "AMD",
+        "CPU Name": "Ryzen 7 Eight Core 3800X",
+        "Price": "400",
+        "Sell Price": "133",
+        "Score": "3350",
+        "Actual Score (No Overclock)": "9983",
+        "Actual Score (Overclock)": "10072",
+        "Level Requirement": "30",
+        "Overclock CPU Score Increase": "0.89"
+    },
+    { 
+        "Manufacterer": "AMD",
+        "CPU Name": "Ryzen 7 Eight Core 3700X",
+        "Price": "330",
+        "Sell Price": "110",
+        "Score": "3307",
+        "Actual Score (No Overclock)": "9855",
+        "Actual Score (Overclock)": "9945",
+        "Level Requirement": "30",
+        "Overclock CPU Score Increase": "0.91"
+    },
+    { 
+        "Manufacterer": "Intel",
+        "CPU Name": "Core i7-9800X",
+        "Price": "500",
+        "Sell Price": "167",
+        "Score": "3253",
+        "Actual Score (No Overclock)": "9695",
+        "Actual Score (Overclock)": "9834",
+        "Level Requirement": "29",
+        "Overclock CPU Score Increase": "1.43"
+    },
+    { 
+        "Manufacterer": "AMD",
+        "CPU Name": "Ryzen Threadripper Sixteen Core 1950X",
+        "Price": "800",
+        "Sell Price": "267",
+        "Score": "3222",
+        "Actual Score (No Overclock)": "9602",
+        "Actual Score (Overclock)": "9711",
+        "Level Requirement": "22",
+        "Overclock CPU Score Increase": "1.14"
+    },
+    { 
+        "Manufacterer": "Intel",
+        "CPU Name": "Core i7-7820X",
+        "Price": "700",
+        "Sell Price": "233",
+        "Score": "3206",
+        "Actual Score (No Overclock)": "9556",
+        "Actual Score (Overclock)": "9695",
+        "Level Requirement": "26",
+        "Overclock CPU Score Increase": "1.45"
     }
 ]

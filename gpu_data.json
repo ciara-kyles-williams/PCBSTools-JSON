@@ -1,0 +1,90 @@
+[
+    {
+        "Manufacterer": "ZOTAC",
+        "GPU": "GAMING GeForce RTX 2080 Ti Amp Extreme",
+        "Buy Price": "1300",
+        "Sell Price": "433",
+        "Score": "8280",
+        "Actual Score (Single)": "12842",
+        "Actual Score (Dual)": "22348",
+        "Level Requirement": "27",
+        "Dual GPU Performance Increase": "1.740"
+    },
+    {
+        "Manufacterer": "GIGABYTE",
+        "GPU": "AORUS GeForce RTX 2080 Ti XTREME 11G",
+        "Buy Price": "1310",
+        "Sell Price": "437",
+        "Score": "8031",
+        "Actual Score (Single)": "12450",
+        "Actual Score (Dual)": "21459",
+        "Level Requirement": "27",
+        "Dual GPU Performance Increase": "1.723"
+    },
+    {
+        "Manufacterer": "COLORFUL",
+        "GPU": "iGame GeForce RTX 2080 Ti Vulcan X OC",
+        "Buy Price": "1320",
+        "Sell Price": "440",
+        "Score": "8017",
+        "Actual Score (Single)": "12427",
+        "Actual Score (Dual)": "21226",
+        "Level Requirement": "28",
+        "Dual GPU Performance Increase": "1.708"
+    },
+    {
+        "Manufacterer": "EVGA",
+        "GPU": "GeForce RTX 2080 Ti FTW3 ULTRA GAMING",
+        "Buy Price": "1240",
+        "Sell Price": "413",
+        "Score": "7943",
+        "Actual Score (Single)": "12311",
+        "Actual Score (Dual)": "21080",
+        "Level Requirement": "27",
+        "Dual GPU Performance Increase": "1.712"
+    },
+    {
+        "Manufacterer": "ZOTAC",
+        "GPU": "GAMING GeForce RTX 2080 Ti Amp",
+        "Buy Price": "1150",
+        "Sell Price": "383",
+        "Score": "7500",
+        "Actual Score (Single)": "11614",
+        "Actual Score (Dual)": "20205",
+        "Level Requirement": "27",
+        "Dual GPU Performance Increase": "1.739"
+    },
+    {
+        "Manufacterer": "ZOTAC",
+        "GPU": "GAMING GeForce RTX 2080 Ti Amp MAXX",
+        "Buy Price": "1150",
+        "Sell Price": "383",
+        "Score": "7500",
+        "Actual Score (Single)": "11614",
+        "Actual Score (Dual)": "20205",
+        "Level Requirement": "27",
+        "Dual GPU Performance Increase": "1.739"
+    },
+    {
+        "Manufacterer": "Colorful",
+        "GPU": "iGame GeForce RTX 2080 Ti Advanced OC",
+        "Buy Price": "1200",
+        "Sell Price": "400",
+        "Score": "7353",
+        "Actual Score (Single)": "11382",
+        "Actual Score (Dual)": "19914",
+        "Level Requirement": "28",
+        "Dual GPU Performance Increase": "1.749"
+    },
+    {
+        "Manufacterer": "EVGA",
+        "GPU": "GeForce RTX 2080Ti XC BLACK EDITION GAMING",
+        "Buy Price": "1080",
+        "Sell Price": "360",
+        "Score": "6984",
+        "Actual Score (Single)": "10801",
+        "Actual Score (Dual)": "19185",
+        "Level Requirement": "27",
+        "Dual GPU Performance Increase": "1.776"
+    }
+]
